@@ -2,6 +2,9 @@
 h1 {
     color: rgb(61, 61, 61);
 }
+h3 {
+    color: darkblue;
+}
 .text-red {
     color: red;
 }
@@ -11,7 +14,9 @@ h1 {
 .text-aqua {
     color: aqua;
 }
-
+.text-link {
+    color: darkblue;
+}
 /************** ÖLÇÜLER ***********/
 .fs-small {
     font-size: 14;
