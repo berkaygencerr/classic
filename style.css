@@ -1,0 +1,24 @@
+/************** RENKLER ***********/
+.text-red {
+    color: red;
+}
+.text-blue {
+    color: blue;
+}
+.text-aqua {
+    color: aqua;
+}
+.text-baslik {
+    color: rgb(61, 61, 61);
+}
+
+/************** ÖLÇÜLER ***********/
+.fs-small {
+    font-size: 14;
+}
+.fs-medium {
+    font-size: 20;
+}
+.fs-large {
+    font-size: 30;
+}
