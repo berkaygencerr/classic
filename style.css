@@ -1,4 +1,7 @@
 /************** RENKLER ***********/
+h1 {
+    color: rgb(61, 61, 61);
+}
 .text-red {
     color: red;
 }
@@ -7,9 +10,6 @@
 }
 .text-aqua {
     color: aqua;
-}
-.text-baslik {
-    color: rgb(61, 61, 61);
 }
 
 /************** ÖLÇÜLER ***********/
@@ -21,4 +21,22 @@
 }
 .fs-large {
     font-size: 30;
+}
+.style {
+    width: 30; height: 30;
+}
+/************** MERKEZ ***********/
+.sola{
+    margin-right: 20px;
+    font-size: large;
+ }
+ .orta{
+    font-size: large;
+ }
+ .sag{
+    margin-left: 20px;
+    font-size: large;
+ }
+.center {
+    text-align: center;
 }
